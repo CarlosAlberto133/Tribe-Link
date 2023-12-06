@@ -1,5 +1,9 @@
 # tribe-link
 
+<p align="center">
+    <img width="600px" height="337px" src="src/assets/tribelink.gif" />
+</p>
+
 ## Project setup
 ```
 npm install
